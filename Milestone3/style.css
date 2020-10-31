@@ -7,7 +7,7 @@
 }
 img {
     margin-left: 275px;
-    margin-top: 50px;
+    margin-top: 0px;
 
 }
 body{
@@ -17,6 +17,8 @@ nav{
     background: transparent;
     height:80px;
     width: 100%;
+    top: 250px;
+    display: fixed;
 }
 img.logo{
 
