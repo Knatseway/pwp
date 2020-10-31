@@ -1,9 +1,14 @@
 *{
-    padding:0;
+    padding:0px;
     margin:0;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+}
+img {
+    margin-left: 300px;
+    margin-top: 50px;
+
 }
 body{
     font-family: montserrat;
@@ -13,12 +18,11 @@ nav{
     height:80px;
     width: 100%;
 }
-label.logo{
-    color: orange;
-    font-size:35px;
+img.logo{
+
     line-height:80px;
     padding:0 100px;
-    font-weight: bold;
+    margin-left: 100px;
 }
 nav ul{
     float: right;
