@@ -1,12 +1,12 @@
 *{
     padding:0px;
-    margin:0;
+    margin:0px;
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
 }
 img {
-    margin-left: 300px;
+    margin-left: 275px;
     margin-top: 50px;
 
 }
@@ -21,7 +21,7 @@ nav{
 img.logo{
 
     line-height:80px;
-    padding:0 100px;
+    padding: 100px;
     margin-left: 100px;
 }
 nav ul{
@@ -30,8 +30,8 @@ nav ul{
 }
 nav ul li{
     display: inline-block;
-    line-height: 80px;
-    margin: 0 5px;
+    line-height: 20px;
+    margin:  20px;
  }
 nav ul li a{
     color: green;
