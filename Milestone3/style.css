@@ -31,14 +31,14 @@ nav ul li{
     margin:  20px;
  }
 nav ul li a{
-    color: green;
+    color: black;
     font-size: 17px;
     padding:7px;
     border-radius:3px;
     text-transform: uppercase;
 }
 a.active,a:hover{
-    background: yellow;
+    background: cornflowerblue;
     transition: .5s;
 }
 /*checkbtn allows the navbarmenu to collapse to vertical on mobile devices*/
