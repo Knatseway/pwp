@@ -93,7 +93,13 @@ a.active,a:hover{
 }}
 
 /*JUMBOTRON*/
-
+h1 {
+    padding-left:40px;
+    margin: 40px;
+}
+p {
+    margin-left: 40px;
+}
 .jumbotron {
     background: url('path/to/images/banner.jpg') no-repeat center center;
     background-size: cover;
