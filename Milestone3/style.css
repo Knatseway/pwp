@@ -4,7 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
-    background-color: aliceblue;
+    background-color: #2f67fa;
 }
 img {
     margin-left: 275px;
@@ -94,12 +94,12 @@ a.active,a:hover{
 
 /*JUMBOTRON*/
 
-.jumbotron
-{
+.jumbotron {
     background: url('path/to/images/banner.jpg') no-repeat center center;
     background-size: cover;
     margin:10px;
-    background-color: aliceblue;
+    background-color: #2f67fa;
+
 }
 
 img{
