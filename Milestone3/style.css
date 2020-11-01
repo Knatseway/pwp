@@ -101,7 +101,7 @@ p {
     margin-left: 40px;
 }
 .jumbotron {
-    background: url('path/to/images/banner.jpg') no-repeat center center;
+    background:  no-repeat center center;
     background-size: cover;
     margin:10px;
     background-color: #2f67fa;
