@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     box-sizing: border-box;
+    background-color: aliceblue;
 }
 img {
     margin-left: 275px;
@@ -97,5 +98,10 @@ a.active,a:hover{
 {
     background: url('path/to/images/banner.jpg') no-repeat center center;
     background-size: cover;
-    margin: 7px;
+    margin:10px;
+    background-color: aliceblue;
+}
+
+img{
+    flex-flow: column;
 }
