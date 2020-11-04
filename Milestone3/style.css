@@ -6,8 +6,15 @@
     background-color: #2f67fa;
     color: white;
 }
+h1{
+    text-align: center;
+    vertical-align: middle;
+    margin: auto;
 
-
+}
+p {
+    text-align:center;
+}
 
 .container{
     /*background: no-repeat center center;*/
