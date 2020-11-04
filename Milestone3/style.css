@@ -1,27 +1,20 @@
-
-
-
-
-
-
-
-/*JUMBOTRON*/
-h1 {
-
-}
-p {
-
-}
-.jumbotron {
-    background:  no-repeat center center;
-    background-size: cover;
-    margin:10px;
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
     background-color: #2f67fa;
+    color: white;
+}
 
-/*}*/
-/*.flexbox-container {*/
-/*    justify-content: center;*/
-img[alt="entertaining"] {
-    border: black solid;
-    text-align: center;
+
+
+.container{
+    /*background: no-repeat center center;*/
+    /*background-size: cover;*/
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #2f67fa;
+    color: white;
 }
