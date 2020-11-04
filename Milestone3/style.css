@@ -21,7 +21,12 @@ p {
     /*background-size: cover;*/
     width: 100%;
     margin: 0;
-    padding: 0;
+    padding: 15;
     background-color: #2f67fa;
     color: white;
+
+}
+p {
+    margin:5rem;
+    padding: 5rem;
 }
