@@ -4,6 +4,7 @@
     text-decoration: none;
     list-style: none;
     background-color: #2f67fa;
+    /*background-image: radial-gradient(#020024, #2f67fa,#00D4FF);*/
     color: white;
     font-family: montserrat, sans-serif;
 }
@@ -20,12 +21,12 @@ p {
 }
 
 .container{
-    background-image:  ;
     background-size: cover;
     width: 100%;
     margin: 0;
-    padding: 0;
-    background-color: #2f67fa;
+    padding: 5rem;
+    /*background-color: rgb(47,103,250);*/
+    background-image: linear-gradient(90deg, rgb(2, 0, 36) 0%, rgba(47,103,250,1) 35%, rgb(0, 212, 255) 100%);
     color: white;
     font-family: montserrat, sans-serif;
 
@@ -36,4 +37,8 @@ p {
     padding-right: 5rem;
     padding-left: 5rem;
 
+}
+.card-group {
+    padding: 10px;
+    background: #2f67fa;
 }
