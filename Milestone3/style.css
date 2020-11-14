@@ -38,7 +38,19 @@ p {
     padding-left: 5rem;
 
 }
-.card-group {
+.image-container-fluid {
+
+    border-image-width:10rem;
+    border-color: darkblue;
+    border-width: 10rem;
+    margin: 50px;
     padding: 10px;
     background: #2f67fa;
+}
+
+.row-img {
+    border-width: 2rem;
+    padding:10rem;
+    margin: 4rem;
+
 }
