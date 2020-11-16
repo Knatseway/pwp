@@ -43,10 +43,12 @@ p {
     justify-content: space-evenly;
 
 }
-.image-container-fluid-2 .row-image{
+.image-container-fluid-2 .row-image {
     padding: 2px;
     margin: 2px;
 }
+/*
+*/
 /*    border-image-width:10rem;*/
 /*    border-color: darkblue;*/
 /*    border-width: 10rem;*/
