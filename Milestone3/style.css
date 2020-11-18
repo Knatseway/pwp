@@ -6,19 +6,21 @@
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
+/*the body code got rid of the white line across the screen*/
 body {
     background-color: #2f67fa !important;
 }
 h1{
     text-align: center;
-    /*vertical-align: middle;*/
-    /*margin-top:10px;*/
-    /*font-family: montserrat, sans-serif;*/
-    /*padding: 2px;*/
 }
 p {
     text-align:center;
     font-family: montserrat, sans-serif;
+    margin-bottom:5rem;
+    padding-bottom: 5rem;
+    padding-right: 5rem;
+    padding-left: 5rem;
+
 }
 
 .container{
@@ -29,17 +31,7 @@ p {
     padding: 5px;
     color: transparent;
     font-family: montserrat, sans-serif;
-
 }
-p {
-    margin-bottom:5rem;
-    padding-bottom: 5rem;
-    padding-right: 5rem;
-    padding-left: 5rem;
-
-}
-
-
 
 .body {
     border-image-width:10rem;
@@ -51,7 +43,6 @@ p {
 }
 
 .container-fluid {
-    /*margin-left: 5rem;*/
     padding-left: 4rem;
 
 }
