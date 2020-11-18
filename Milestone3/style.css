@@ -3,9 +3,11 @@
     margin: 0;
     text-decoration: none;
     list-style: none;
-    background-color: #2f67fa;
     color: white;
     font-family: montserrat, sans-serif;
+}
+body {
+    background-color: #2f67fa !important;
 }
 h1{
     text-align: center;
