@@ -6,6 +6,18 @@
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
+
+#navbarNav {
+    display: flex;
+    justify-content: space-evenly;
+    /*color: white;*/
+
+.nav.navbar-nav.navbar-right {
+    color: blue;
+}
+
+
+}
 /*the body code got rid of the white line across the screen*/
 body {
     background-color: #2f67fa !important;
