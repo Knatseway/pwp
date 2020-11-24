@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b6c151c4-2d9e-4fce-8acd-83483592ef91" name="ddc-web-student.cnm.edu" url="http://ddc-web-student.cnm.edu/~knatseway/pwp">
-        <fileTransfer rootFolder="/home/knatseway/public_html/pwp" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="a0602e6c-c65a-4bd4-bb04-a9d91cb9691f" sshConfig="knatseway@ddc-web-student.cnm.edu:22 agent" authAgent="true">
+      <webServer id="b6c151c4-2d9e-4fce-8acd-83483592ef91" name="ddc-web-student.cnm.edu" url="http://165.227.4.41:22.kainatseway">
+        <fileTransfer rootFolder="/home/knatseway/pwp" accessType="SFTP" host="165.227.4.41" port="22" sshConfigId="a0602e6c-c65a-4bd4-bb04-a9d91cb9691f" sshConfig="knatseway@165.227.4.41:22 agent" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
