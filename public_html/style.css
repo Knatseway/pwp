@@ -59,9 +59,11 @@ p {
 
 }
 .contact{
-    margin: 100px;
+    /*margin: 100px;*/
 
 
 }
 
-
+button {
+    background-color: navy;
+}
