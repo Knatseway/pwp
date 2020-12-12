@@ -37,7 +37,7 @@ $(document).ready(function() {
             $("#contact").ajaxSubmit({
                 type: "POST",
                 url: $("#contact").attr('action'),
-                success: () => {
+                success: (ajaxOutput) => {
                     $("#output-area").css("display", "")
                     $("#output-area").html(ajaxOutput)
 
