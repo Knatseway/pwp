@@ -10,10 +10,13 @@
 #navbarNav {
     display: flex;
     justify-content: space-evenly;
-    /*color: white;*/
+}
+
+.nav-link{
+    color: white;
 }
 .nav.navbar-nav.navbar-right {
-    color: blue;
+    color: navy;
 }
 
 
